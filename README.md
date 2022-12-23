@@ -19,7 +19,11 @@ Once mounted, running this project is as simple as deploying it to a balenaCloud
 
 [![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/mpous/balena-rgbxmastree&defaultDeviceType=raspberry-pi)
 
+You can also join the fleet from [balenaHub](https://hub.balena.io) here [https://hub.balena.io/organizations/marc6/fleets/RGB-xmas-tree](https://hub.balena.io/organizations/marc6/fleets/RGB-xmas-tree)
+
+
 ## Customization
+
 With the environment variables below you can customize your 3D RGB Xmas Tree.
 
 Variable Name | Value | Description | Default
@@ -31,6 +35,7 @@ Variable Name | Value | Description | Default
 
 
 ### Philips Hue integration
+
 Wouldn't it be nice if the xmas tree goes on and off at the same time as the lights in the room it's standing. If you are using Philips Hue lights and the tree is able to reach the Hue bridge you can connect it so the tree will go on when a specific light is turned on.
 To turn this feature on set `USE_HUE_LIGHT_STATUS` to True and configure the following params:
 
@@ -43,4 +48,10 @@ To turn this feature on set `USE_HUE_LIGHT_STATUS` to True and configure the fol
 `HUE_LIGHT_NAME` Set the name of the Hue light you want to sync with the xmas tree
 
 `HUE_USE_SSL` Set to True if you want to use HTTPS else it will be HTTP
+
+
+## Attribution
+
+This project is a fork of a project you can find [here](https://github.com/connect-cloud/balena-rgbxmastree). Big thank you to Adam!
+
 
