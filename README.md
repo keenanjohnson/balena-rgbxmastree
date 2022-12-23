@@ -11,7 +11,7 @@
 
 <img width="624" alt="xmas-rgb-tree-pihut-balena" src="https://user-images.githubusercontent.com/173156/209328704-5167655f-67ac-41cf-bb6f-b80cc59f72f5.png">
 
-Get the Xmas tree PCB and solder the 2 lateral pieces (it works as well if you connect straightforward the PCB). Once soldered it should look like this image below.
+Get the Xmas tree PCB and solder the 2 lateral pieces (it works as well if you connect straightforward the PCB). Once soldered (or connected) it should look like this image below.
 
 <img width="569" alt="rgb-xmas-tree-balena-raspberrypi" src="https://user-images.githubusercontent.com/173156/209328758-277f7712-e613-475b-aa18-8b439e79c66f.png">
 
