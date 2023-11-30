@@ -19,9 +19,6 @@ Once mounted, running this project is as simple as deploying it to a balenaCloud
 
 [![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/mpous/balena-rgbxmastree&defaultDeviceType=raspberry-pi)
 
-You can also join the fleet from [balenaHub](https://hub.balena.io) here [https://hub.balena.io/organizations/marc6/fleets/RGB-xmas-tree](https://hub.balena.io/organizations/marc6/fleets/RGB-xmas-tree)
-
-
 ## Customization
 
 With the environment variables below you can customize your 3D RGB Xmas Tree.
